@@ -1,5 +1,10 @@
 public class Store {
     public static void main(String[] args) {
+
+        int [][] productos = new int[2][3];
+
+        
+        
         int p1 = 15;
         int p2 = 10;
         int p3 = 5;
@@ -15,5 +20,6 @@ public class Store {
         } else {
             System.out.println("Low sales performance");
         }
+
     }
 }
