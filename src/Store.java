@@ -1,7 +1,7 @@
 public class Store {
     public static void main(String[] args) {
 
-        int [][] productos = new int[2][3];
+        int [][] productos = new int[2][3]; //A este codigo no le entendi, se agradece que nos diga de que va almenos profe ;)
 
         
         
