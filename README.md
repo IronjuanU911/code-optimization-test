@@ -1,4 +1,3 @@
-
 # Refactorization Quiz: Applying the SDLC Process
 
 ## Overview
@@ -56,3 +55,16 @@ You must follow the **SDLC process** to refactor the code:
    - Once you complete the refactorization, push your changes to your forked repository.
    - Create a pull request (PR) to the original repository, explaining the improvements you made and how you followed the **SDLC** approach.
 
+Documentación AgeValidation:
+En este ejercicio de pedimos al usuario la edad del mismo y la almacenamos en la variable age, 
+para luego evaluarla con limit_age, si age es mayor a limit_age, el usuario accedera,
+en caso contrario no accedera
+
+Documentación TaxCalculation:
+En este ejercicio le pedimos el valor de 2 productos, los cuales los almacenamos en productPrice1 y productPrice2
+para juego multiplicar este valor por su constante respectiva porcentaje_impuesto_1 y porcentaje_impuesto_2
+y asi obtener el impuesto respectivo por cada producto, luego los sumamos y si supera el umbral de impuestos
+desimos si ubo una gran cantidad de impuestos o no
+
+Documentación Store:
+Me disculpo profe, reconosco que no alcance a hacer nada en este.
